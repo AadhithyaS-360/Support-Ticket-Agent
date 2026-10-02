@@ -344,19 +344,19 @@ The project documentation records six sprints and a calculated average velocity 
 
 The documented product backlog assigns work across the three team members.
 
-### Caroline Hansika L
+### AADHITHYA S
 
 * Salesforce environment setup
 * Auto-Launched Flow
 * Agentforce and automation
 
-### Sindhuja S
+### SEBINDOSS
 
 * Data modeling
 * Priority classification
 * SLA management
 
-### Preethi S
+### AZHAGESAN & DENZIL ANTONY
 
 * Account/Contact relationships
 * Task and assignment
@@ -441,7 +441,7 @@ Thanjavur, Tamil Nadu, India
 
 **College Code:** `8219`
 
-**Team ID:** `SWTID-2026-3135`
+**Team ID:** `SWTID-2026-8065`
 
 ---
 
@@ -457,10 +457,10 @@ The project demonstrates the integration of **CRM data, workflow automation, and
 
 ## 👨‍💻 Team
 
-**Team ID:** `SWTID-2026-3135`
+**Team ID:** `SWTID-2026-8065`
 
-**Team Leader:** Caroline Hansika L
-**Team Members:** Sindhuja S, Preethi S
+**Team Leader:** AADHITHYA S
+**Team Members:** SEBINDOSS A , B.DENZIL ANTONY , Azhagesan R
 
 **St. Joseph’s College of Engineering and Technology, Thanjavur**
 
@@ -471,8 +471,8 @@ The project demonstrates the integration of **CRM data, workflow automation, and
 ```text
 Project Type : Salesforce + Agentforce
 Status       : Completed / Prototype
-Team ID      : SWTID-2026-3135
-Team Size    : 3
+Team ID      : SWTID-2026-8065
+Team Size    : 4
 ```
 
 ---
